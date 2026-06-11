@@ -1,0 +1,6 @@
+{
+  "name": "Ferragista Mãos À Obra",
+  "description": "Website institucional moderno e responsivo para a Ferragista Mãos À Obra. Ferramentas, ferragens, pintura e materiais elétricos com atendimento de excelência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
